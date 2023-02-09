@@ -1,5 +1,5 @@
 <?php 
-//Criando uma conexão com o bando de dados
+//Criando uma conexão com o banco de dados
 
 $con = mysqli_connect("localhost","etecia","123456","db_2h2022");
 
